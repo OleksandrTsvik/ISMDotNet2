@@ -1,0 +1,6 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\bin\Debug\Task9.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\bin\Debug\Task9.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\bin\Debug\Task9.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\obj\Debug\Task9.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №02\ISMDotNet2\Task9\obj\Debug\Task9.pdb
